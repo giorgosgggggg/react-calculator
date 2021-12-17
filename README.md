@@ -4,5 +4,6 @@ In this project I created a calculator using react. The user can add, sunstract,
 Technologies I used in the project:
 * React
 * UseReducer
+* React-hooks
 
 
